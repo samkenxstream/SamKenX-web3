@@ -1,0 +1,19 @@
+[samken-web3]
+
+name=SamKenX Web3 Repository
+
+baseurl=https://samkenxstream.github.io/SamKenX-web3
+
+enabled=1
+
+gpgcheck=0
+
+[samken-web3-debuginfo]
+
+name=SamKenX Web3 Debug Repository
+
+baseurl=https://samkenxstream.github.io/SamKenX-web3-debug
+
+enabled=1
+
+gpgcheck=0
